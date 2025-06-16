@@ -52,11 +52,13 @@ Respiratory diseases are a leading cause of death worldwide. Traditional lung au
 
 ---
 
-## 🖼️ Feature Visualization
+## 📱 Application Screenshots
 
-> 📌 *Insert spectrogram or GTCC/STFC visualization here*
+> 📌 *Upload screenshots of your application interface (GUI, mobile app, web dashboard, etc.) below*
 
-![Spectrogram Sample](images/spectrogram_sample.png)
+### 🔹 Web / Desktop UI Example
+
+![App Screenshot 1](images/app_ui_1.png)
 
 ---
 
@@ -75,19 +77,15 @@ Respiratory diseases are a leading cause of death worldwide. Traditional lung au
 - CNN-only: 96.88%
 - LSTM-only: 92.15%
 
-> 📌 *Insert accuracy graph or confusion matrix below*
-
-![Accuracy Chart](images/accuracy_chart.png)
-
 ---
 
 ## ✅ Advantages
 
-1. **High Accuracy:** Deep learning ensures strong precision
-2. **Fast Diagnosis:** Enables real-time screening
-3. **Low Error Rate:** Less dependency on human expertise
-4. **Cost-Effective:** Viable for rural and mobile healthcare
-5. **Robust:** Handles noisy, varied environments
+1. **High Accuracy:** Deep learning ensures strong precision  
+2. **Fast Diagnosis:** Enables real-time screening  
+3. **Low Error Rate:** Less dependency on human expertise  
+4. **Cost-Effective:** Viable for rural and mobile healthcare  
+5. **Robust:** Handles noisy, varied environments  
 
 ---
 
@@ -111,7 +109,7 @@ The proposed CNN-LSTM system efficiently analyzes lung sounds using GTCC and STF
 7. Acharya & Basu – Wearable DNN for respiratory sounds  
 8. Perna – CNN on respiratory data  
 9. Balasubramanian – Real-time ML for pulmonary diseases  
-10. Basu & Rana – Deep respiratory sound recognition
+10. Basu & Rana – Deep respiratory sound recognition  
 
 ---
 
