@@ -45,19 +45,12 @@ Respiratory diseases are a leading cause of death worldwide. Traditional lung au
 ---
 
 ## 🖼️ System Architecture
-
-> 📌 *Insert architecture diagram below*
-
 ![System Architecture](https://github.com/rohitbpawar25/BE_Project_2025/blob/bc8315c53a3ea0c0bf07be096d946b34d5a235bb/Respiratory%20Disease%20Project/Code/static/img/Architecture.jpg)
 
 
 ---
 
 ## 📱 Application Screenshots
-
-> 📌 *Upload screenshots of your application interface (GUI, mobile app, web dashboard, etc.) below*
-
-### 🔹 Web / Desktop UI Example
 
 ![App Screenshot 1](images/app_ui_1.png)
 
