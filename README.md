@@ -48,7 +48,7 @@ Respiratory diseases are a leading cause of death worldwide. Traditional lung au
 
 > 📌 *Insert architecture diagram below*
 
-![System Architecture](RespiratoryDiseaseProject/Codestatic/img/Architecture.jpg)
+![System Architecture](Code/static/img/Architecture.jpg)
 
 ---
 
